@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- i enjoy exploring code base that has potential impact, regardless of language, framework
+- i enjoy exploring codebase that has potential impact, regardless of language, framework
 
 - dota2 immortal player(mid), us west server [stratz](https://stratz.com/players/280488428)
 
