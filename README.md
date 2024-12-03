@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- i enjoy exploring codebase that has potential impact, regardless of language, framework
+- i enjoy exploring codebase that has potential impacts
 
-- dota2 immortal player(mid), us west server [stratz](https://stratz.com/players/280488428)
+- dota2 mid player, immortal ranked [stratz](https://stratz.com/players/280488428)
 
 <!--
 **jzhao62/jzhao62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
